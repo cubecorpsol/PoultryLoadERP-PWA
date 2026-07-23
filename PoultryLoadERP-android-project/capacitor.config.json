@@ -1,0 +1,9 @@
+{
+  "appId": "com.poultryload.erp",
+  "appName": "PoultryLoad ERP",
+  "webDir": "www",
+  "backgroundColor": "#FFFDF5",
+  "android": {
+    "backgroundColor": "#FFFDF5"
+  }
+}
